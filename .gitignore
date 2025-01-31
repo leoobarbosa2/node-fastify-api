@@ -2,4 +2,5 @@ node_modules
 database/app.db
 .vscode
 .env
+.env.test
 requirements.md
